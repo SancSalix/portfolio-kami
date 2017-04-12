@@ -1,0 +1,30 @@
+---
+layout: post
+title: BlocJams
+thumbnail-path: "img/blocjams.png"
+short-description: BlocJams is a digital music player, allowing online streaming of songs.
+
+---
+
+{:.center}
+![]({{ site.baseurl }}/img/blocflix.png)
+
+## Explanation
+
+BlocJams was my first inaugeral project. Created to reinforce the basics of HTML, CSS, and JavaScript, I later expanded it into refactoring large portions into jQuery. It consists of three main pages: main, collection, and album. It's designed to stream music without ads or limits, and to function just as well on a browser as it does on mobile. The main page is the initial launch site, and elaborates on some main selling points of BlocJams. The collection page shows images of albums and provides links to each. The album page is an individual look at each album, is able to cycle to other albums, and allows the playing of music.
+
+## Problem
+
+TBD
+
+## Solution
+
+TBD
+
+## Results
+
+TBD
+
+## Conclusion
+
+TBD
