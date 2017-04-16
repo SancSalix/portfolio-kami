@@ -8,7 +8,7 @@ feature-img: "img/goodbirbs.png"
 I'm a brand new programmer, just starting to get good at front end development. I've been dabbling for over two years, before taking the plunge of working in programming full time. I'm currently in an apprenticeship with Bloc, while working full-time.
 
 {:.center}
-![]({{ site.baseurl }}/img/goodbirbs.png)
+<img src="../img/goodbirbs.png" alt="Two birds">
 
 
 
