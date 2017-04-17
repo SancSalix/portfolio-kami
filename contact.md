@@ -9,7 +9,7 @@ If you want to get a hold of me, feel free to send me a message with the form be
 
 <form action="https://getsimpleform.com/messages?form_api_token=461c80b735fa3c44d32cf576f35b427d" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='https://sancsalix.github.io/portfolio-kami/thank-you' />
+  <input type='hidden' name='redirect_to' value='https://www.shelby-coleman.com/thank-you' />
   <input type='text' name='name' placeholder='Your Full Name' required />
   <input type='email' name='email' placeholder='Your E-mail Address' required/>
   <textarea name='message' placeholder='Write your message ...' required></textarea>
