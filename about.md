@@ -12,4 +12,5 @@ I'm a brand new programmer, just starting to get good at front end development. 
 
 
 
-*If you're interested in a drawing like the one above, I commissioned mine from [this](http://girasols-reflection.deviantart.com) talented artist!*
+*If you're interested in a drawing like the one above, I commissioned mine from
+<a href="http://girasols-reflection.deviantart.com" onClick="_gaq.push([‘_trackEvent’, ‘resource’, ‘outbound link’,‘http://girasols-reflection.deviantart.com’]);" target="_blank">this</a> talented artist!*

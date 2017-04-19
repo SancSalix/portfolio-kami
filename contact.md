@@ -13,5 +13,5 @@ If you want to get a hold of me, feel free to send me a message with the form be
   <input type='text' name='name' placeholder='Your Full Name' required />
   <input type='email' name='email' placeholder='Your E-mail Address' required/>
   <textarea name='message' placeholder='Write your message ...' required></textarea>
-  <input type='submit' value='Send Message' />
+  <input type="submit" onClick="_gaq.push([‘_trackEvent’, ‘form, ‘submit’, ’Send Message’]);" value="Send Message" />
 </form>
